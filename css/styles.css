@@ -1,6 +1,13 @@
+:root {
+  --primary-color: #1e2e36;
+  --secondary-color: #44c697;
+  --discount-color: #ff1b1b;
+  --grey-color: #bcbdbb;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
-  color: #1e2e36;
+  color: var(--primary-color);
 }
 
 h1,
