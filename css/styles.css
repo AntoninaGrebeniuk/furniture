@@ -40,3 +40,13 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.title {
+  font-size: 48px;
+  line-height: 1.25;
+}
+
+.subtitle {
+  font-size: 36px;
+  line-height: 1.25;
+}
